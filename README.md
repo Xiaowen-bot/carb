@@ -1,1 +1,1 @@
-# carb
+# Wang, X., Xia, P., Wang, F. et al. Metabolomic signatures of dietary carbohydrates and differential association with type 2 diabetes. Nat. Health 1, 145–157 (2026). https://doi.org/10.1038/s44360-025-00023-8
